@@ -12,6 +12,8 @@ print("hello wordl")
 x=input("enter your first name");
 y=input("enter your first name");
 print("full name ",x,y);
+# second commit
+
 # first commit
 # //this is for git comment merge
 #doubt every statement is end with semicolan ani,
